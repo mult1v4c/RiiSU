@@ -17,7 +17,7 @@ Thanks to [iiSU Interpreted for ES-DE](https://github.com/VictorUnlocked/iisu-in
 ## How to Use
 1. Clone the repository
 ```
-git clone https://github.com/mult1v4c/riisu.git
+git clone https://github.com/mult1v4c/RiiSU.git
 ```
 2. Connect to your device and navigate to the NeoStation `user-data` folder.
 

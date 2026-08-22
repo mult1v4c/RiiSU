@@ -1,0 +1,44 @@
+{
+  "name": "RiiSU Dark",
+  "id": "riisu-dark",
+  "author": "mult1v4c",
+  "colorScheme": "dark",
+  "colors": {
+    "base-100": "#171a1e",
+    "base-200": "#20252b",
+    "base-300": "#303840",
+    "base-content": "#f2f5f7",
+
+    "primary": "#29b6f6",
+    "primary-content": "#102028",
+
+    "secondary": "#ff4b5c",
+    "secondary-content": "#ffffff",
+
+    "accent": "#ffc928",
+    "accent-content": "#302500",
+
+    "neutral": "#59636d",
+    "neutral-content": "#ffffff",
+
+    "info": "#42b5f5",
+    "info-content": "#102028",
+
+    "success": "#5fcf85",
+    "success-content": "#102b1b",
+
+    "warning": "#ffbd2e",
+    "warning-content": "#382600",
+
+    "error": "#ff5c64",
+    "error-content": "#ffffff"
+  },
+  "effects": {
+    "radius-selector": "0.25rem",
+    "radius-field": "0.5rem",
+    "radius-box": "0.75rem",
+    "border": "1.5px",
+    "size-selector": "0.5rem",
+    "size-field": "0.5rem"
+  }
+}

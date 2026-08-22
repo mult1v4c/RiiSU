@@ -1,0 +1,44 @@
+{
+  "name": "RiiSU Light",
+  "id": "riisu-light",
+  "author": "mult1v4c",
+  "colorScheme": "light",
+  "colors": {
+    "base-100": "#ffffff",
+    "base-200": "#f3f5f7",
+    "base-300": "#dfe4e8",
+    "base-content": "#263238",
+
+    "primary": "#00a8e1",
+    "primary-content": "#ffffff",
+
+    "secondary": "#e60012",
+    "secondary-content": "#ffffff",
+
+    "accent": "#f5b700",
+    "accent-content": "#263238",
+
+    "neutral": "#6b747c",
+    "neutral-content": "#ffffff",
+
+    "info": "#3b9fe8",
+    "info-content": "#ffffff",
+
+    "success": "#4caf70",
+    "success-content": "#ffffff",
+
+    "warning": "#f0a500",
+    "warning-content": "#3d2b00",
+
+    "error": "#e5484d",
+    "error-content": "#ffffff"
+  },
+  "effects": {
+    "radius-selector": "0.25rem",
+    "radius-field": "0.5rem",
+    "radius-box": "0.75rem",
+    "border": "1.5px",
+    "size-selector": "0.5rem",
+    "size-field": "0.5rem"
+  }
+}
